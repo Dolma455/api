@@ -1,0 +1,22 @@
+{
+    "firstname":"Dolma",
+    "lastname":"Lama",
+    "age":20,
+    "address":
+     {
+        "streetaddress":"ward no.8 Gokarneswor municipality Makalbari",
+        "City":"Kathmandu",
+        "State":"bagmati",
+        "postal code":"44600"
+    },
+    "phonenumber": [
+        {
+            "type":"home",
+            "number":"977 01344444"
+        },
+        {
+            "type":"fax",
+            "number":"9768888999"
+        }
+    ]
+}
